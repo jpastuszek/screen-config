@@ -1,8 +1,5 @@
 startup_message off
 
-# ensure login shell
-shell -bash
-
 # longer buffer 
 defscrollback 5000
 
