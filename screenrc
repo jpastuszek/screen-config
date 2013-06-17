@@ -1,5 +1,9 @@
 startup_message off
-# scroll
+
+# longer buffer 
+defscrollback 5000
+
+# try to turn off scroll
 termcapinfo xterm* ti@:te@
 
 hardstatus off
